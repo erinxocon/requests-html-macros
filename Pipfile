@@ -1,0 +1,26 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+requests-html = "*"
+
+
+[dev-packages]
+
+pytest = "*"
+"e1839a8" = {path = ".", editable = true}
+requests-file = "*"
+
+
+[requires]
+
+python_version = "3.6"
+
+[scripts]
+
+tests = "pytest -v"
