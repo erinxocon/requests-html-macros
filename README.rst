@@ -10,7 +10,8 @@ Requests-Html-Macros
 **Requests-Html-Macros** is a little sugar on top of an already great html parseing library `Requests-Html <https://github.com/kennethreitz/requests-html>`_
 
 This library aims to help make parsing the web a bit easier than it already is with Requests-Html!  Create macros that can be reused over different web sites/sessions!
-Could you do this by hand with requests-html, yes probably pretty simply, but I only realized that liek half way through developing this library and then was just like screw it let's push it out anyways!
+
+Could you do this by hand with requests-html, yes probably pretty simply, but I only realized that like half way through developing this library and then was just like screw it let's push it out anyways!
 
 Example
 -------
