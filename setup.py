@@ -11,7 +11,7 @@ DESCRIPTION = 'HTML Parsing Macro things for Humans.'
 URL = 'https://github.com/erinxocon/requests-html-macros'
 EMAIL = 'erinocon5@gmail.com'
 AUTHOR = "Erin O'Connell"
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 
 here = os.path.abspath(os.path.dirname(__file__))
